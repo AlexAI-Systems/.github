@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/alexai-logo-temp-v1.png" alt="AlexAI Systems" width="760">
+</p>
+
 # AlexAI Systems
 
 **AlexAI Systems** разрабатывает AI-assisted developer tools и прикладные
